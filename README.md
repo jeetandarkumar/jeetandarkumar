@@ -5,4 +5,4 @@ Building Clean Architecture / CQRS systems on .NET 8. Open to backend roles in U
 
 **Stack:** C# · ASP.NET Core · EF Core · SQL Server · Redis · Docker · Azure
 
-📫 [LinkedIn]([your-actual-linkedin-url](https://www.linkedin.com/in/jeetandar-k-610694146))
+📫 [LinkedIn](https://www.linkedin.com/in/jeetandar-k-610694146)
